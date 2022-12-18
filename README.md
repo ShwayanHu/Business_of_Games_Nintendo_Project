@@ -6,7 +6,7 @@ The main purpose of the project is to predict key KPIs of a game, including Dail
 
 In the model we use AR and ARDL models.
 
-![Genshin Impact](https://pic.imgdb.cn/item/639f5a87b1fccdcd36625171.jpg)
+![Genshin Impact](https://github.com/NathanHuXy/Business_of_Games_Nintendo_Project/blob/main/images/Genshin%20Impact.jpeg)
 
 ## Data
 
