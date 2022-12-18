@@ -1,6 +1,8 @@
 # Business_of_Games_Nintendo_Project
 
-A Blended Learning PBL Project Presentation and Code.
+A Blended Learning PBL Project Presentation and Code.The main purpose of the project is to predict key KPIs of a game, including Daily Active Users(DAU), daily installs, and In-app Purchases(IAP).
+
+![Genshin Impact](https://pic.imgdb.cn/item/639f5a87b1fccdcd36625171.jpg)
 
 ## Data
 
